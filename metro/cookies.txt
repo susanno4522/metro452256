@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.metro.pe	TRUE	/	FALSE	1999999999	VTEXSC	sc=19
+www.metro.pe	TRUE	/	FALSE	1999999999	ISSMB	ScreenMedia=0&UserAcceptMobile=False
+www.metro.pe	TRUE	/	FALSE	1999999999	SGTS	5CB8970E264D2A590E7118CE3204C24B
+www.metro.pe	TRUE	/	FALSE	1999999999	janus_sid	86fec33b-8a75-4de2-8463-ef5f0dd5a6f0
+www.metro.pe	TRUE	/	FALSE	1999999999	samesite	lax
+
